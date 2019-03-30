@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Checkbox</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-392.000000, -376.000000)" fill="#979797" fill-rule="nonzero">
+            <g id="Group" transform="translate(392.000000, 375.000000)">
+                <g id="Checkbox" transform="translate(0.000000, 1.000000)">
+                    <path d="M14.2947368,0 L5.70526316,0 C2.54736842,0 0,2.54736842 0,5.70526316 L0,14.2947368 C0,17.4315789 2.54736842,20 5.70526316,20 L14.2947368,20 C17.4315789,20 20,17.4526316 20,14.2947368 L20,5.70526316 C20,2.54736842 17.4526316,0 14.2947368,0 Z M18.3333333,14.4736842 C18.3333333,16.6008772 16.6008772,18.3333333 14.4736842,18.3333333 L5.52631579,18.3333333 C3.39912281,18.3333333 1.66666667,16.6008772 1.66666667,14.4736842 L1.66666667,5.52631579 C1.66666667,3.39912281 3.39912281,1.66666667 5.52631579,1.66666667 L14.4736842,1.66666667 C16.6008772,1.66666667 18.3333333,3.39912281 18.3333333,5.52631579 L18.3333333,14.4736842 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
