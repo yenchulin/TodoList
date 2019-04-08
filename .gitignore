@@ -12,9 +12,14 @@
 # JS, Node
 
 node_modules/
-dist/
 
 # Logs
 logs
 *.log
 npm-debug.log*
+
+# Deployment (Firebase)
+.firebase
+.firebaserc
+firebase.json
+dist/
